@@ -20,11 +20,12 @@ Agent 3: 资产智能 ──→ 去重合并 + 标准化 → 结构化资产清�
 Agent 4: 报告生成 ──→ Markdown + Excel → 最终报告
 ```
 
-<img src=".images/image-20260811165333623.png" alt="image-20260811165333623" style="zoom:80%;" align="left"/>
+<img src="https://github.com/Miniko233/AI-EASM/blob/main/img/image-20260811165333623.png" alt="image-20260811165333623" style="zoom:50%;" align="left"/>
 
 ## 0x02 项目结构
 
-<img src=".images/image-20260811165635904.png" alt="image-20260811165635904" style="zoom:80%;" align="left"/>
+
+
 
 ```
 .
@@ -59,6 +60,10 @@ Agent 4: 报告生成 ──→ Markdown + Excel → 最终报告
             ├── agent3-asset-intelligence/
             └── agent4-report/
 ```
+<img src="https://github.com/Miniko233/AI-EASM/blob/main/img/image-20260811165635904.png" alt="image-20260811165635904" style="zoom:50%;" align="left"/>
+
+
+
 ## 0x03 Agent说明
 
 ### Agent 1：Target Intelligence
